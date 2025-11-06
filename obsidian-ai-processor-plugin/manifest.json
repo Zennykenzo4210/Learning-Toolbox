@@ -1,0 +1,10 @@
+{
+  "id": "ai-processor",
+  "name": "AI Processor for Learning",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Process your Obsidian notes with AI (Gemini, Claude, Perplexity) for vocabulary building, translation, and content enhancement",
+  "author": "Zennykenzo",
+  "authorUrl": "https://github.com/Zennykenzo4210",
+  "isDesktopOnly": false
+}
